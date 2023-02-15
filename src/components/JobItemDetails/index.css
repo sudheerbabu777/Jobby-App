@@ -1,0 +1,107 @@
+.jobs-details-container {
+  padding: 40px;
+  background-color: #2c364c;
+  border-radius: 12px;
+  margin-bottom: 40px;
+}
+
+.jobs-container {
+  background-color: #000000;
+  padding: 60px;
+  height: auto;
+}
+
+.extra {
+  font-size: 18px;
+}
+
+.visit-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #6366f1;
+}
+
+.visit-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skill-title {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.skill {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-left: 15px;
+}
+
+.extra-heading {
+  font-size: 22px;
+}
+
+.skill-image {
+  width: 50px;
+  height: 50px;
+}
+
+.skill-item-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  width: 30%;
+}
+
+.skill-list-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.company-details-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.company-extra {
+  font-size: 18px;
+  width: 50%;
+}
+
+.company-image {
+  width: 35%;
+  margin-left: 30px;
+}
+
+.company-title {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.similar-title {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.list-similar-container {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}

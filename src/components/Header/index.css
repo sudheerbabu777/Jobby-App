@@ -1,0 +1,39 @@
+.header-container {
+  background-color: #2c364c;
+  padding: 15px 60px 15px 60px;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.nav-logo-image {
+  width: 150px;
+  height: 40px;
+}
+
+.home-jobs-container {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+  margin: 30px;
+}
+
+.logout-button {
+  padding: 8px 28px 8px 28px;
+  background-color: #6366f1;
+  outline: none;
+  border: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  border-radius: 8px;
+}
